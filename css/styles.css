@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    text-align: center;
+    line-height: 1.5;
+    font-family: 'Lato', sans-serif;
+} 
+.bottom-container {
+    margin-bottom: 0;
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-image: linear-gradient(0deg,rgba(146, 13, 139, 0.27),rgba(146, 13, 139, 0.27)),url('/cubes.png');
+}
+a {
+    color: rgba(146, 13, 139,0.6);
+    margin-right: 15px;
+    text-decoration: none;
+} 
+a:hover {
+    color: rgba(248, 91, 240, 0.792);
+}
+.mypic {
+    margin-top: 20px;
+} 
+.name {
+    margin-top: 0;
+    font-size: 250%;   
+    margin-bottom: 10px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 250;
+}
+.introtext1 {
+    background-image: linear-gradient(0deg,rgba(146, 13, 139, 0.27),rgba(146, 13, 139, 0.27)),url('/cubes.png');
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.pro {
+   text-decoration: underline; 
+}
+h1 {
+    line-height: 2;
+}
+h2,h3 {
+    color : rgba(146, 13, 139,0.6);
+}
+hr {
+    width: 5%;
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: rgb(219, 217, 217);
+}
+.contactme {
+    font-size: 125%;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+.skill-row {
+    width: 50%;
+    margin: 0 auto 130px auto;
+    text-align: left;
+}
+.skill-head {
+    padding-top: 60px;
+}
+.extra {
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 110%;
+    font-weight: 550;
+}
+.mypic{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 25px;
+}
+
+.computer {
+    width: 30%;
+    float: left;
+    margin-right: 10px;
+}
+.htmlogo {
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+.pyton {
+    position: absolute;
+    left: 50px;
+    top: 600px;
+    height: 150px;
+    width: 230px;
+}
+.clogo {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    height: 135px;
+    width: 135px;
+}
+.cplus {
+    position: absolute;
+    right: 300px;
+    top: 400px;
+    height: 135px;
+    width: 135px;
+}
+.endtext {
+    margin-bottom: 0;
+    font-size: 84%;
+}
+.btn {
+    background: rgba(146, 13, 139,0.6);
+    border-radius: 15px;
+    font-family: 'Lato', sans-serif;
+    color: #f9eaf6;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: rgba(146, 13, 139,0.2);
+    text-decoration: none;
+}
